@@ -1,3 +1,9 @@
+##########################################################################
+#name:thornton.R
+#author: Sarah Bainn
+#description: Analysis on thornton dataset
+#date last updated:05/20/2020
+##########################################################################
 library(tidyverse)
 library(readstata13)
 library(haven)
